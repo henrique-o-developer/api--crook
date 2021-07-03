@@ -1,0 +1,485 @@
+{
+  "PRESITES": [
+    "https://www.facebook.com/",
+    "https://pt.wikipedia.org/",
+    "https://www.npmjs.com/",
+    "https://github.com/"
+  ],
+  "SITES": [
+    {
+      "keys": "Documentation",
+      "link": "https://docs.npmjs.com",
+      "rel": 1
+    },
+    {
+      "keys": "Learn about Pro",
+      "link": "https://fonts.googleapis.com/css?family=Arimo|Poppins:400,600,700&amp;display=swap",
+      "rel": 1
+    },
+    {
+      "keys": "Community",
+      "link": "https://npm.community",
+      "rel": 1
+    },
+    {
+      "keys": "Blog",
+      "link": "https://blog.npmjs.org/",
+      "rel": 1
+    },
+    {
+      "keys": "Advisories",
+      "link": "https://www.npmjs.com/advisories",
+      "rel": 1
+    },
+    {
+      "keys": "npm",
+      "link": "https://www.npmjs.com",
+      "rel": 1
+    },
+    {
+      "keys": "GitHub Desktop",
+      "link": "https://desktop.github.com/",
+      "rel": 1
+    },
+    {
+      "keys": "GitHub CLI",
+      "link": "https://cli.github.com/",
+      "rel": 1
+    },
+    {
+      "keys": "\n          Contact Sales\n        ",
+      "link": "https://enterprise.github.com/contact?ref_page=/&ref_cta=Contact%20Sales&ref_loc=footer%20launchpad",
+      "rel": 1
+    },
+    {
+      "keys": "Partners",
+      "link": "https://partner.github.com/",
+      "rel": 1
+    },
+    {
+      "keys": "Professional Services",
+      "link": "https://services.github.com/",
+      "rel": 1
+    },
+    {
+      "keys": "Contact GitHub",
+      "link": "https://support.github.com",
+      "rel": 1
+    },
+    {
+      "keys": "About",
+      "link": "https://github.com/about",
+      "rel": 1
+    },
+    {
+      "keys": "Blog",
+      "link": "https://github.blog",
+      "rel": 1
+    },
+    {
+      "keys": "Social Impact",
+      "link": "https://socialimpact.github.com/",
+      "rel": 1
+    },
+    {
+      "keys": "Roadmap",
+      "link": "https://github.com/github/roadmap",
+      "rel": 1
+    },
+    {
+      "keys": "Atom",
+      "link": "https://atom.io",
+      "rel": 1
+    },
+    {
+      "keys": "Electron",
+      "link": "https://www.electronjs.org",
+      "rel": 1
+    },
+    {
+      "keys": "Learning Lab",
+      "link": "https://lab.github.com/",
+      "rel": 1
+    },
+    {
+      "keys": "Status",
+      "link": "https://www.githubstatus.com/",
+      "rel": 1
+    },
+    {
+      "keys": "MediaWiki",
+      "link": "https://www.mediawiki.org/wiki/MediaWiki",
+      "rel": 1
+    },
+    {
+      "keys": "Wikilivros",
+      "link": "https://pt.wikibooks.org/wiki/Wikilivros:P%C3%A1gina_principal",
+      "rel": 1
+    },
+    {
+      "keys": "Wikiquote",
+      "link": "https://pt.wikiquote.org/wiki/P%C3%A1gina_principal",
+      "rel": 1
+    },
+    {
+      "keys": "Wikisource",
+      "link": "https://pt.wikisource.org/wiki/Wikisource:P%C3%A1gina_principal",
+      "rel": 1
+    },
+    {
+      "keys": "Wikiversidade",
+      "link": "https://pt.wikiversity.org/wiki/P%C3%A1gina_principal",
+      "rel": 1
+    },
+    {
+      "keys": "Wikivoyage",
+      "link": "https://pt.wikivoyage.org/wiki/P%C3%A1gina_principal",
+      "rel": 1
+    },
+    {
+      "keys": "Creative Commons BY-SA",
+      "link": "https://creativecommons.org/licenses/by-sa/3.0/deed.pt",
+      "rel": 1
+    },
+    {
+      "keys": "termos de uso",
+      "link": "https://foundation.wikimedia.org/wiki/Terms_of_Use/pt-br",
+      "rel": 1
+    },
+    {
+      "keys": "Community Forum",
+      "link": "https://github.community",
+      "rel": 1
+    },
+    {
+      "keys": "Resources",
+      "link": "https://resources.github.com",
+      "rel": 1
+    },
+    {
+      "keys": "Privacy",
+      "link": "https://docs.github.com/en/github/site-policy/github-privacy-statement",
+      "rel": 1
+    },
+    {
+      "keys": "Terms",
+      "link": "https://docs.github.com/en/github/site-policy/github-terms-of-service",
+      "rel": 1
+    },
+    {
+      "keys": "Alemannisch",
+      "link": "https://als.wikipedia.org/wiki/Wikipedia:Houptsyte",
+      "rel": 1
+    },
+    {
+      "keys": "ܐܪܡܝܐ",
+      "link": "https://arc.wikipedia.org/wiki/%DC%A6%DC%90%DC%AC%DC%90_%DC%AA%DC%9D%DC%AB%DC%9D%DC%AC%DC%90",
+      "rel": 1
+    },
+    {
+      "keys": "Asturianu",
+      "link": "https://ast.wikipedia.org/wiki/Portada",
+      "rel": 1
+    },
+    {
+      "keys": "Aymar aru",
+      "link": "https://ay.wikipedia.org/wiki/Nayriri_u%C3%B1stawi",
+      "rel": 1
+    },
+    {
+      "keys": "Boarisch",
+      "link": "https://bar.wikipedia.org/wiki/Wikipedia:Hoamseitn",
+      "rel": 1
+    },
+    {
+      "keys": "Bikol Central",
+      "link": "https://bcl.wikipedia.org/wiki/Panginot_na_Pahina",
+      "rel": 1
+    },
+    {
+      "keys": "Bosanski",
+      "link": "https://bs.wikipedia.org/wiki/Po%C4%8Detna_strana",
+      "rel": 1
+    },
+    {
+      "keys": "Mìng-dĕ̤ng-ngṳ̄",
+      "link": "https://cdo.wikipedia.org/wiki/T%C3%A0u_Hi%C4%95k",
+      "rel": 1
+    },
+    {
+      "keys": "Cebuano",
+      "link": "https://ceb.wikipedia.org/wiki/Unang_Panid",
+      "rel": 1
+    },
+    {
+      "keys": "Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ",
+      "link": "https://cu.wikipedia.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D1%8C%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0",
+      "rel": 1
+    },
+    {
+      "keys": "Чӑвашла",
+      "link": "https://cv.wikipedia.org/wiki/%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0",
+      "rel": 1
+    },
+    {
+      "keys": "Deutsch",
+      "link": "https://de.wikipedia.org/wiki/Wikipedia:Hauptseite",
+      "rel": 1
+    },
+    {
+      "keys": "Zazaki",
+      "link": "https://diq.wikipedia.org/wiki/Pela_Seri",
+      "rel": 1
+    },
+    {
+      "keys": "English",
+      "link": "https://en.wikipedia.org/wiki/Main_Page",
+      "rel": 1
+    },
+    {
+      "keys": "Suomi",
+      "link": "https://fi.wikipedia.org/wiki/Wikipedia:Etusivu",
+      "rel": 1
+    },
+    {
+      "keys": "Na Vosa Vakaviti",
+      "link": "https://fj.wikipedia.org/wiki/Tabana_levu",
+      "rel": 1
+    },
+    {
+      "keys": "贛語",
+      "link": "https://gan.wikipedia.org/wiki/%E5%B0%81%E9%9D%A2",
+      "rel": 1
+    },
+    {
+      "keys": "Galego",
+      "link": "https://gl.wikipedia.org/wiki/Portada",
+      "rel": 1
+    },
+    {
+      "keys": "Hrvatski",
+      "link": "https://hr.wikipedia.org/wiki/Glavna_stranica",
+      "rel": 1
+    },
+    {
+      "keys": "Hornjoserbsce",
+      "link": "https://hsb.wikipedia.org/wiki/H%C5%82owna_strona",
+      "rel": 1
+    },
+    {
+      "keys": "Ilokano",
+      "link": "https://ilo.wikipedia.org/wiki/Umuna_a_Panid",
+      "rel": 1
+    },
+    {
+      "keys": "ГӀалгӀай",
+      "link": "https://inh.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%82%D1%82%D0%B5%D1%80%D0%B0_%D0%BE%D0%B0%D0%B3%D3%80%D1%83%D0%B2",
+      "rel": 1
+    },
+    {
+      "keys": "Íslenska",
+      "link": "https://is.wikipedia.org/wiki/Fors%C3%AD%C3%B0a",
+      "rel": 1
+    },
+    {
+      "keys": "한국어",
+      "link": "https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8C%80%EB%AC%B8",
+      "rel": 1
+    },
+    {
+      "keys": "Kanuri",
+      "link": "https://kr.wikipedia.org/wiki/Main_Page",
+      "rel": 1
+    },
+    {
+      "keys": "Къарачай-малкъар",
+      "link": "https://krc.wikipedia.org/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B5%D1%82",
+      "rel": 1
+    },
+    {
+      "keys": "Ripoarisch",
+      "link": "https://ksh.wikipedia.org/wiki/Wikipedia:Houpsigk",
+      "rel": 1
+    },
+    {
+      "keys": "Kurdî",
+      "link": "https://ku.wikipedia.org/wiki/Destp%C3%AAk",
+      "rel": 1
+    },
+    {
+      "keys": "Kernowek",
+      "link": "https://kw.wikipedia.org/wiki/Folen_dre",
+      "rel": 1
+    },
+    {
+      "keys": "Ladino",
+      "link": "https://lad.wikipedia.org/wiki/La_Primera_Hoja",
+      "rel": 1
+    },
+    {
+      "keys": "Lombard",
+      "link": "https://lmo.wikipedia.org/wiki/Pagina_principala",
+      "rel": 1
+    },
+    {
+      "keys": "Lingála",
+      "link": "https://ln.wikipedia.org/wiki/Lok%C3%A1s%C3%A1_ya_libos%C3%B3",
+      "rel": 1
+    },
+    {
+      "keys": "Latviešu",
+      "link": "https://lv.wikipedia.org/wiki/S%C4%81kumlapa",
+      "rel": 1
+    },
+    {
+      "keys": "Lietuvių",
+      "link": "https://lt.wikipedia.org/wiki/Pagrindinis_puslapis",
+      "rel": 1
+    },
+    {
+      "keys": "Minangkabau",
+      "link": "https://min.wikipedia.org/wiki/Laman_Utamo",
+      "rel": 1
+    },
+    {
+      "keys": "Монгол",
+      "link": "https://mn.wikipedia.org/wiki/%D0%9D%D2%AF%D2%AF%D1%80_%D1%85%D1%83%D1%83%D0%B4%D0%B0%D1%81",
+      "rel": 1
+    },
+    {
+      "keys": "مازِرونی",
+      "link": "https://mzn.wikipedia.org/wiki/%DA%AF%D8%AA_%D8%B5%D9%81%D8%AD%D9%87",
+      "rel": 1
+    },
+    {
+      "keys": "Plattdüütsch",
+      "link": "https://nds.wikipedia.org/wiki/Wikipedia:H%C3%B6%C3%B6ftsiet",
+      "rel": 1
+    },
+    {
+      "keys": "Norsk bokmål",
+      "link": "https://no.wikipedia.org/wiki/Portal:Forside",
+      "rel": 1
+    },
+    {
+      "keys": "Diné bizaad",
+      "link": "https://nv.wikipedia.org/wiki/%C3%8Diyis%C3%AD%C3%AD_Naaltsoos",
+      "rel": 1
+    },
+    {
+      "keys": "Kapampangan",
+      "link": "https://pam.wikipedia.org/wiki/Pun_Bulung",
+      "rel": 1
+    },
+    {
+      "keys": "Pälzisch",
+      "link": "https://pfl.wikipedia.org/wiki/Wikipedia:Haubdsaid",
+      "rel": 1
+    },
+    {
+      "keys": "Shqip",
+      "link": "https://sq.wikipedia.org/wiki/Faqja_kryesore",
+      "rel": 1
+    },
+    {
+      "keys": "Seeltersk",
+      "link": "https://stq.wikipedia.org/wiki/Haudsiede",
+      "rel": 1
+    },
+    {
+      "keys": "Ślůnski",
+      "link": "https://szl.wikipedia.org/wiki/Przodni%C5%8F_zajta",
+      "rel": 1
+    },
+    {
+      "keys": "Seediq",
+      "link": "https://trv.wikipedia.org/wiki/Ruwahan_patas",
+      "rel": 1
+    },
+    {
+      "keys": "Oʻzbekcha/ўзбекча",
+      "link": "https://uz.wikipedia.org/wiki/Bosh_Sahifa",
+      "rel": 1
+    },
+    {
+      "keys": "文言",
+      "link": "https://zh-classical.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E5%A4%A7%E5%85%B8:%E5%8D%B7%E9%A6%96",
+      "rel": 1
+    },
+    {
+      "keys": "粵語",
+      "link": "https://zh-yue.wikipedia.org/wiki/%E9%A0%AD%E7%89%88",
+      "rel": 1
+    },
+    {
+      "keys": "Estatísticas",
+      "link": "https://stats.wikimedia.org/#/pt.wikipedia.org",
+      "rel": 1
+    },
+    {
+      "keys": "Programadores",
+      "link": "https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute",
+      "rel": 1
+    },
+    {
+      "keys": "Declaração sobre ''cookies''",
+      "link": "https://foundation.wikimedia.org/wiki/Cookie_statement",
+      "rel": 1
+    },
+    {
+      "keys": "Wikimedia Commons",
+      "link": "https://commons.wikimedia.org/wiki/Main_Page",
+      "rel": 1
+    },
+    {
+      "keys": "Wikisource multilingue",
+      "link": "https://wikisource.org/wiki/Main_Page",
+      "rel": 1
+    },
+    {
+      "keys": "Wikispecies",
+      "link": "https://species.wikimedia.org/wiki/Main_Page",
+      "rel": 1
+    },
+    {
+      "keys": "Wikidata",
+      "link": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+      "rel": 1
+    },
+    {
+      "keys": "Wikimania",
+      "link": "https://wikimania.wikimedia.org/wiki/Wikimania",
+      "rel": 1
+    },
+    {
+      "keys": "Wikinotícias",
+      "link": "https://pt.wikinews.org/wiki/P%C3%A1gina_principal",
+      "rel": 1
+    },
+    {
+      "keys": "Wikcionário",
+      "link": "https://pt.wiktionary.org/wiki/Wikcion%C3%A1rio:P%C3%A1gina_principal",
+      "rel": 1
+    },
+    {
+      "keys": "Commons",
+      "link": "https://commons.wikimedia.org/wiki/Commons:Imagens_de_qualidade",
+      "rel": 1
+    },
+    {
+      "keys": "Chavacano de Zamboanga",
+      "link": "https://cbk-zam.wikipedia.org/wiki/El_Primero_Pagina",
+      "rel": 1
+    },
+    {
+      "keys": "Español",
+      "link": "https://es.wikipedia.org/wiki/Wikipedia:Portada",
+      "rel": 1
+    },
+    {
+      "keys": "Piemontèis",
+      "link": "https://pms.wikipedia.org/wiki/Intrada",
+      "rel": 1
+    }
+  ]
+}
